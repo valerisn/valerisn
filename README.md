@@ -47,25 +47,6 @@ func main() {
 
 </div>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=valerisn&theme=darkhub&no-frame=true&row=1&column=7" />
-
-</div>
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerisn/valerisn/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/valerisn/valerisn/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
