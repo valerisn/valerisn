@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%26+Infrastructure;Founder+of+Lumix+Solutions;Building+systems+that+don't+fall+apart" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+%26+Infrastructure;Data+%26+System+Design;Building+systems+that+don't+fall+apart" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=120&section=header" width="100%" />
 
 </div>
 
@@ -10,12 +12,26 @@ I build reliable, maintainable systems for online platforms. My work centers on 
 
 I got my start in FiveM scripting and Discord bots, which taught me how to build for real communities with real users. Since then I've moved into broader software engineering: system design, data handling, and general-purpose tooling. This profile is littered with random open-source and personal projects because I can't stop building things.
 
-Founder of **Lumix Solutions**, a hosting and infrastructure company for online communities and developers who want practical, scalable services without the enterprise nonsense.
+```go
+func main() {
+    for {
+        build()
+        break // never reached
+    }
+}
+```
 
 ## Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,go,cpp,dart,flutter,c" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Backend-58A6FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-1a1b27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-58A6FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-1a1b27?style=for-the-badge&logoColor=white" />
 </p>
 
 ## Stats
@@ -31,8 +47,33 @@ Founder of **Lumix Solutions**, a hosting and infrastructure company for online 
 
 </div>
 
+## Trophies
+
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=valerisn&theme=darkhub&no-frame=true&row=1&column=7" />
+
+</div>
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valerisn/valerisn/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/valerisn/valerisn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 <img src="https://komarev.com/ghpvc/?username=valerisn&style=flat-square&color=58A6FF&label=profile+views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1b27&height=120&section=footer" width="100%" />
 
 </div>
