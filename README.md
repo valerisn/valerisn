@@ -70,10 +70,6 @@ func main() {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<img src="https://komarev.com/ghpvc/?username=valerisn&style=flat-square&color=58A6FF&label=profile+views" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1b27&height=120&section=footer" width="100%" />
 
 </div>
