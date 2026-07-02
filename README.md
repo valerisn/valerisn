@@ -16,7 +16,7 @@ I got my start in FiveM scripting and Discord bots, which taught me how to build
 func main() {
     for {
         build()
-        break // never reached
+        break 
     }
 }
 ```
