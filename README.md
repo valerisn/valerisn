@@ -1,9 +1,9 @@
 # Hi, I'm Valerisn.
 
-I'm the founder of **Asterion**, a software company focused on secure networking and defense technology for mission-critical environments. We're building modern platforms that help organizations protect infrastructure, manage fleets and assets, strengthen communications, and operate with confidence through reliable software.
+I'm the founder of **Asterion**, a software company developing secure networking, fleet management, and defense technology.
 
-My work revolves around designing and building the systems behind those products. I primarily focus on backend engineering, infrastructure, networking, databases, and system architecture, with an emphasis on software that remains dependable under demanding conditions. I enjoy solving complex engineering problems and creating products that are secure, scalable, and built with longevity in mind.
+I primarily work on backend engineering, networking, databases, and system architecture. I enjoy building software that solves operational problems, whether that's managing fleets, securing networks, or creating the infrastructure those systems depend on.
 
-Before founding Asterion, I began developing software for online communities, building backend services, management platforms, and developer tools. Those projects grew into a broader passion for systems engineering and ultimately led to the creation of Asterion.
+Before Asterion, I spent years building tools and management platforms for online communities. Those projects sparked an interest in systems engineering that grew into the company I'm building today.
 
-This GitHub is where I build in public. You'll find everything from early prototypes and experimental projects to open-source libraries and production-ready software. Every repository is another step toward building better systems and better products.
+I use GitHub to document that journey. You'll find everything from small experiments and open-source utilities to production software that powers Asterion.
